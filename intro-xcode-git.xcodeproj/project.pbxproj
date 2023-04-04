@@ -24,6 +24,7 @@
 		52385D0C29DBC81A00204F51 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		52385D0F29DBC81A00204F51 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		52385D1129DBC81A00204F51 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		52385D1729DBD15A00204F51 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 				52385D0C29DBC81A00204F51 /* Assets.xcassets */,
 				52385D0E29DBC81A00204F51 /* LaunchScreen.storyboard */,
 				52385D1129DBC81A00204F51 /* Info.plist */,
+				52385D1729DBD15A00204F51 /* README.md */,
 			);
 			path = "intro-xcode-git";
 			sourceTree = "<group>";
